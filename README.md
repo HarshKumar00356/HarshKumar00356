@@ -1,6 +1,13 @@
 -  Hi, I’m @HarshKumar00356
 -  A product designer
+-  
 -  I’m a 2025 graduate from NIT Hamirpur with a strong interest in product design, user experience, and problem-solving. I’ve previously interned with IIT Roorkee’s Department of Design and was a winner of the Google DSC Design Challenge 2024 at NITH. and Designed a solution for segregation of waste in Trains and Planes for Salesforce Design Challenge '2024
+
+-  Why I chose Design ?🤔
+To be honest , WHY NOT ! , I mean Design gives You so much freedom to test ideas at the Early stages of product development And that's why I choose design . I love to own the problems not just the solutions ! 
+
+
+
 -  How to reach me  -
 - EMAIL: Harshkumar00356@gmail.com
   LINKEDIN: https://www.linkedin.com/in/harshkumar00356/
