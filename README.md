@@ -58,5 +58,5 @@ I’ve previously interned with IIT Roorkee’s Department of Design and was a w
  
 ---
  
-© 2024 Harsh Kumar. All Rights Reserved.
+© 2026 Harsh Kumar. All Rights Reserved.
  
