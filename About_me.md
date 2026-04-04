@@ -1,6 +1,6 @@
 # Hey 👋, I’m Harsh
+<img src="Work/linkedin banner/ME.svg" alt="its me" width="400">
 
-![ME.svg](https://prod-files-secure.s3.us-west-2.amazonaws.com/17441c83-512b-4176-9c1f-1b5d14b0a87e/b390a260-9aa0-4a09-9e75-b8bc61683b0c/ME.svg)
 
 ## **A Product  Designer**
 
