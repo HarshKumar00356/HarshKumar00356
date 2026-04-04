@@ -12,7 +12,7 @@
  
 ## **Why I chose Design?**
  
-> To be honest, WHY NOT! I mean Design gives you so much **freedom** to test ideas at the early stages of product development. And that's why I chose design. I love to own the problems, not just the solutions!
+> To be honest, WHY NOT! I mean Design gives me so much **freedom** to test ideas at the early stages of product development. And that's why I chose design. I love to own the problems, not just the solutions!
  
 
  
