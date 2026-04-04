@@ -6,7 +6,7 @@
  
 ## **A Product Designer**
  
-📍 Based in Gurugram, India
+📍 Currently Based in Gurugram, India
  
 ---
  
@@ -19,7 +19,10 @@
 ## 👨🏻‍💻 About Me
  
 > I am an ambitious person with a strong interest in product design, user experience, and problem-solving.
->
+> I’m a graduate from NIT Hamirpur And
+>  I design products that look good, feel good, and sell well.
+
+ I’ve previously interned with IIT Roorkee’s Department of Design and was a winner of the Google DSC Design Challenge 2024 at NITH.
 > I have many hobbies but lack gears, so I decided to become financially good first.
  
 ---
