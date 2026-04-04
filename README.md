@@ -15,8 +15,8 @@ Based in  Gurugram , India
 
 ## **👨🏻‍💻About me**
 
-> I am  an ambitious person with a strong interest in product design, user experience, and problem-solving .
-> 
+> I’m a 2025 graduate from NIT Hamirpur And
+>  I design products that look good, feel good, and sell well. .
 > 
 > I have many hobbies but lack gears , so I decided to become financially good first . 
 > 
