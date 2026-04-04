@@ -4,35 +4,34 @@
   <img src="ME.svg" alt="Harsh" width="180"/>
 </p>
  
-## **A Product Designer**
+## A Product Designer
  
 📍 Currently Based in Gurugram, India
  
----
+
  
 ## **Why I chose Design?**
  
 > To be honest, WHY NOT! I mean Design gives you so much **freedom** to test ideas at the early stages of product development. And that's why I chose design. I love to own the problems, not just the solutions!
  
----
+
  
 ## 👨🏻‍💻 About Me
  
-> I am an ambitious person with a strong interest in product design, user experience, and problem-solving.
-> I’m a graduate from NIT Hamirpur And
->  I design products that look good, feel good, and sell well.
 
- I’ve previously interned with IIT Roorkee’s Department of Design and was a winner of the Google DSC Design Challenge 2024 at NITH.
+
+I design products that look good, feel good, and sell well.
+I’ve previously interned with IIT Roorkee’s Department of Design and was a winner of the Google DSC Design Challenge 2024 at NITH.
 > I have many hobbies but lack gears, so I decided to become financially good first.
  
----
+
  
 ## 🎓 Education
  
 **National Institute of Technology Hamirpur, HP, India**
  
 - 🎓 Bachelor of Technology (B.Tech)
-- 📊 CGPA: **8.58 / 10**
+- 📚 CGPA: **8.58 / 10**
  
 ---
  
