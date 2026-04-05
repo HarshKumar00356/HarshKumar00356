@@ -1,0 +1,111 @@
+<svg width="680" height="720" viewBox="0 0 680 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <style>
+    @keyframes spin { from{transform:rotate(0deg)} to{transform:rotate(360deg)} }
+    @keyframes counter { from{transform:rotate(0deg)} to{transform:rotate(-360deg)} }
+    @keyframes float { 0%,100%{transform:translateY(0px)} 50%{transform:translateY(-7px)} }
+    .orbit-group { transform-origin:340px 330px; animation:spin 20s linear infinite; }
+    .icon-wrap { animation:counter 20s linear infinite; transform-origin:0px 0px; }
+    .avatar-g { transform-origin:340px 330px; animation:float 4s ease-in-out infinite; }
+    .lbl { font-family:-apple-system,sans-serif; font-size:11px; fill:rgba(120,120,120,0.9); text-anchor:middle; }
+    .lbl-w { font-family:-apple-system,sans-serif; font-size:11px; fill:rgba(200,190,185,0.9); text-anchor:middle; }
+    .ring { fill:none; stroke:rgba(150,150,150,0.25); stroke-width:1.2; stroke-dasharray:5 7; }
+  </style>
+  <linearGradient id="agGrad" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#f5a623"/>
+    <stop offset="50%" stop-color="#e8483a"/>
+    <stop offset="100%" stop-color="#4f8ef7"/>
+  </linearGradient>
+</defs>
+
+<circle class="ring" cx="340" cy="330" r="205"/>
+
+<!-- Avatar -->
+<g class="avatar-g">
+  <circle cx="340" cy="295" r="72" fill="#f5ede8"/>
+  <ellipse cx="340" cy="390" rx="58" ry="40" fill="#e8e4e0"/>
+  <ellipse cx="340" cy="272" rx="42" ry="48" fill="#f0c9b0"/>
+  <ellipse cx="340" cy="240" rx="44" ry="28" fill="#1a1a1a"/>
+  <rect x="296" y="240" width="88" height="20" fill="#1a1a1a"/>
+  <ellipse cx="327" cy="275" rx="5" ry="6" fill="#1a1a1a"/>
+  <ellipse cx="353" cy="275" rx="5" ry="6" fill="#1a1a1a"/>
+  <path d="M328 292 Q340 302 352 292" fill="none" stroke="#c0805a" stroke-width="2.5" stroke-linecap="round"/>
+  <ellipse cx="298" cy="275" rx="6" ry="9" fill="#f0c9b0"/>
+  <ellipse cx="382" cy="275" rx="6" ry="9" fill="#f0c9b0"/>
+  <path d="M282,340 Q310,320 340,318 Q370,320 398,340 L410,390 Q340,400 270,390 Z" fill="#4a6fa5"/>
+  <text x="340" y="430" text-anchor="middle" font-family="-apple-system,sans-serif" font-size="15" font-weight="600" fill="#3c3c3c">Harsh Kumar</text>
+  <text x="340" y="450" text-anchor="middle" font-family="-apple-system,sans-serif" font-size="11" fill="#888">Product Designer</text>
+</g>
+
+<!-- Orbit -->
+<g class="orbit-group">
+  <!-- Rive 0° -->
+  <g transform="translate(340,125)">
+    <g class="icon-wrap">
+      <circle r="38" fill="white" stroke="rgba(0,0,0,0.09)" stroke-width="1"/>
+      <line x1="-14" y1="-15" x2="-14" y2="15" stroke="black" stroke-width="4.5" stroke-linecap="round"/>
+      <path d="M-14,-15 Q16,-15 16,-4 Q16,6 -2,6" fill="none" stroke="black" stroke-width="4.5" stroke-linecap="round"/>
+      <line x1="-2" y1="6" x2="15" y2="17" stroke="black" stroke-width="4.5" stroke-linecap="round"/>
+      <text class="lbl" y="55">Rive</text>
+    </g>
+  </g>
+  <!-- Framer 60° -->
+  <g transform="translate(518,228)">
+    <g class="icon-wrap">
+      <rect x="-38" y="-38" width="76" height="76" rx="18" fill="black"/>
+      <polygon points="-20,-20 20,-20 0,4" fill="white"/>
+      <polygon points="-20,4 0,4 0,26" fill="white" opacity="0.55"/>
+      <text class="lbl-w" y="55">Framer</text>
+    </g>
+  </g>
+  <!-- Figma 120° -->
+  <g transform="translate(518,432)">
+    <g class="icon-wrap">
+      <circle r="38" fill="white" stroke="rgba(0,0,0,0.09)" stroke-width="1"/>
+      <rect x="-19" y="-30" width="19" height="28" rx="9.5" fill="#F24E1E"/>
+      <rect x="0"   y="-30" width="19" height="28" rx="9.5" fill="#FF7262"/>
+      <rect x="-19" y="-2"  width="19" height="23" rx="9.5" fill="#A259FF"/>
+      <circle cx="9.5" cy="9" r="11.5" fill="#1ABCFE"/>
+      <rect x="-19" y="21" width="19" height="23" rx="9.5" fill="#0ACF83"/>
+      <text class="lbl" y="55">Figma</text>
+    </g>
+  </g>
+  <!-- Notion 180° -->
+  <g transform="translate(340,535)">
+    <g class="icon-wrap">
+      <rect x="-38" y="-38" width="76" height="76" rx="18" fill="black"/>
+      <polygon points="-18,-30 18,-30 28,-18 -8,-18" fill="white"/>
+      <rect x="-18" y="-18" width="36" height="36" rx="4" fill="white"/>
+      <text x="0" y="16" text-anchor="middle" font-family="Georgia,serif" font-size="28" font-weight="900" fill="black">N</text>
+      <text class="lbl-w" y="55">Notion</text>
+    </g>
+  </g>
+  <!-- Claude 240° -->
+  <g transform="translate(162,432)">
+    <g class="icon-wrap">
+      <rect x="-38" y="-38" width="76" height="76" rx="18" fill="#D97757"/>
+      <g stroke="#F5E6DF" stroke-width="3.5" stroke-linecap="round">
+        <line x1="0" y1="-19" x2="0" y2="-8"/>
+        <line x1="0" y1="8"   x2="0" y2="19"/>
+        <line x1="-19" y1="0" x2="-8" y2="0"/>
+        <line x1="8"   y1="0" x2="19" y2="0"/>
+        <line x1="-14" y1="-14" x2="-6" y2="-6"/>
+        <line x1="6"   y1="6"   x2="14" y2="14"/>
+        <line x1="14"  y1="-14" x2="6"  y2="-6"/>
+        <line x1="-6"  y1="6"   x2="-14" y2="14"/>
+      </g>
+      <text class="lbl-w" y="55">Claude</text>
+    </g>
+  </g>
+  <!-- Antigravity 300° -->
+  <g transform="translate(162,228)">
+    <g class="icon-wrap">
+      <rect x="-38" y="-38" width="76" height="76" rx="18" fill="#0a0a0a"/>
+      <path d="M-17,15 Q-17,-22 0,-22 Q17,-22 17,15" fill="none" stroke="url(#agGrad)" stroke-width="5.5" stroke-linecap="round"/>
+      <line x1="-17" y1="15" x2="-24" y2="24" stroke="#4f8ef7" stroke-width="5" stroke-linecap="round"/>
+      <line x1="17"  y1="15" x2="24"  y2="24" stroke="#4f8ef7" stroke-width="5" stroke-linecap="round"/>
+      <text class="lbl-w" y="55">Antigravity</text>
+    </g>
+  </g>
+</g>
+</svg>
