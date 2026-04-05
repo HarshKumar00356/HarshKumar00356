@@ -40,7 +40,7 @@ I've previously interned with IIT Roorkee's Department of Design and was a winne
 
 | Project | Status | Tags |
 |---|---|---|
-| Kaarigar App Design | ✅ Done | Design Thinking, Product Design, UI/UX |
+| Kaarigar App Design [link](https://www.notion.so/1bc6aa712585439c9ed64dce875bf662?pvs=21)| ✅ Done | Design Thinking, Product Design, UI/UX |
 | Trip Planner App UX Case Study | ✅ Done | Design Challenge, UX Case Study |
 | Design Challenge X Salesforce'24 | ✅ Done | DesignDays'24 |
 
@@ -48,7 +48,7 @@ I've previously interned with IIT Roorkee's Department of Design and was a winne
 
 ## 👤 Reach Me
 
-<div align="center">
+<div align="left">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshkumar00356/)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/harshkumar110)
@@ -63,7 +63,15 @@ I've previously interned with IIT Roorkee's Department of Design and was a winne
 
 > 💡 *p.s. I'm still working on my Portfolio cause I've learned so many things on the way, so don't judge early :)*
 
-<img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=12&height=120&animation=fadeIn"/>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=harshkumar00356&color=blueviolet&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHE3dHU4cHduMWw1YWVpd2x2bWdtNWNpbDdmaGxhbm53YTBoYjhibSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PwLYfy05MBVVm/giphy.gif" width="300"/>
+</p>
+
+
 </div>
 
 ---
