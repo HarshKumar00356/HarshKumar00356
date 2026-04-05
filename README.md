@@ -63,7 +63,7 @@ I've previously interned with IIT Roorkee's Department of Design and was a winne
 
 > 💡 *p.s. I'm still working on my Portfolio cause I've learned so many things on the way, so don't judge early :)*
 
-<img src="https://pacman.johnjago.com/pacman.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=12&height=120&animation=fadeIn"/>
 </div>
 
 ---
