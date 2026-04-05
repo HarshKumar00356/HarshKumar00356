@@ -10,10 +10,6 @@
     .lbl { font-family:-apple-system,sans-serif; font-size:11px; fill:rgba(120,120,120,0.9); text-anchor:middle; }
     .ring { fill:none; stroke:rgba(150,150,150,0.25); stroke-width:1.2; stroke-dasharray:5 7; }
   </style>
-  <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0%" stop-color="#6B5DB0"/>
-    <stop offset="100%" stop-color="#E8A8C8"/>
-  </linearGradient>
   <clipPath id="clipRive">   <circle cx="0" cy="0" r="38"/></clipPath>
   <clipPath id="clipFramer"> <rect x="-38" y="-38" width="76" height="76" rx="18"/></clipPath>
   <clipPath id="clipFigma">  <circle cx="0" cy="0" r="38"/></clipPath>
