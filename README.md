@@ -40,7 +40,7 @@ I've previously interned with IIT Roorkee's Department of Design and was a winne
 
 | Project | Status | Tags |
 |---|---|---|
-| Kaarigar App Design [link](https://www.notion.so/1bc6aa712585439c9ed64dce875bf662?pvs=21)| ✅ Done | Design Thinking, Product Design, UI/UX |
+| Kaarigar App Design | ✅ Done | Design Thinking, Product Design, UI/UX |
 | Trip Planner App UX Case Study | ✅ Done | Design Challenge, UX Case Study |
 | Design Challenge X Salesforce'24 | ✅ Done | DesignDays'24 |
 
