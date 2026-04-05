@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="orbit.svg" width="500" alt="Harsh Kumar orbit animation"/>
+<img src="orbit.svg" width="500" >
 
 # Hey 👋, I'm Harsh
 
