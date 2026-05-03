@@ -36,7 +36,7 @@ I've previously interned with IIT Roorkee's Department of Design and was a winne
 
 ---
 
-## 🗂️ [My Projects](https://www.notion.so/1bc6aa712585439c9ed64dce875bf662?pvs=21)
+## 🗂️ [My Projects](https://harshkumar00356.notion.site/1bc6aa712585439c9ed64dce875bf662?v=28c6e517ae884f718da2a6faac3a9f6c&source=copy_link)
 
 | Project | Status | Tags |
 |---|---|---|
